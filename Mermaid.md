@@ -19,10 +19,12 @@ Here is a simple flow chart:
 sequenceDiagram
 Alice->>John: Hello John, how are you?
 loop Healthcheck
-    John->>John: Fight against hypochondria
+    EDY->>EDY: CORIOGRAFO
 end
 Note right of John: Rational thoughts!
-John-->>Alice: Great!
-John->>Bob: How about you?
+ABISAEL-->>AGNES: DANÇA!
+JEAN->>GABRELA: How about you?
 Bob-->>John: Jolly good!
+BEAT-->>JAM: CORIOGRAFIA
+
 ```
